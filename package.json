@@ -1,0 +1,24 @@
+{
+  "name": "knight-travails",
+  "version": "1.0.0",
+  "description": "Learning Graphs and queues",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MatthewAvarello/Knight-Travails.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/MatthewAvarello/Knight-Travails/issues"
+  },
+  "homepage": "https://github.com/MatthewAvarello/Knight-Travails#readme",
+  "dependencies": {
+    "lodash-es": "^4.17.23"
+  }
+}
